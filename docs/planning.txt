@@ -1,0 +1,19 @@
+TODO:
+
+Add API endpoint documentation in ./docs
+Add API documentation in ReadMe
+Make sure users database is working correctly
+Add comments for each function
+Debug login/logout/signup
+
+Add charts for:
+  - cases over time
+  - death by age group pie chart
+  - cases by age group
+
+Add CSS styling to:
+  - home page
+  - charts
+  - signup/login pages
+
+Make video on the Project at 4pm on Friday
