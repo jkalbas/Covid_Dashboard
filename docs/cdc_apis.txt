@@ -1,0 +1,19 @@
+CDC App Token:
+LkodRSqKWrJ9i691KYiUPv9oG
+
+Link to all CDC datasets:
+https://data.cdc.gov/browse
+
+"United States COVID-19 Community Levels by County as Originally Posted"
+https://data.cdc.gov/resource/3nnm-4jni.json
+
+"Deaths by Sex"
+'https://data.cdc.gov/resource/9bhg-hcku.json'
+
+"Covid-19 cases and deaths by state over time"
+https://data.cdc.gov/resource/9mfq-cb36.json
+description: each row represents a day and state going back to the start of covid
+
+"Covid-19 deaths by county"
+https://data.cdc.gov/resource/kn79-hsxy.json
+description: each row represents a county and has their total deaths from jan 1st 2020 to now

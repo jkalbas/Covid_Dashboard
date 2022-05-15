@@ -1,0 +1,47 @@
+{
+  "name": "a99-furud",
+  "description": "## UPDATE",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node server.js --port=3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a99-furud.git"
+  },
+  "keywords": [
+    "COMP",
+    "426",
+    "Final",
+    "furud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a99-furud/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a99-furud#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "body-parser": "^1.20.0",
+    "chart.js": "^3.7.1",
+    "express": "^4.18.0",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.6",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.2.3",
+    "path": "^0.12.7",
+    "requests": "^0.3.0",
+    "window-popup": "^1.1.0",
+    "xhr2": "^0.2.1"
+  }
+}
