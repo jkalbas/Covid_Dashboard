@@ -4,8 +4,9 @@ View COVID information in local npm website. View graphical trends for deaths an
 
 ## To run:
 
-Clone Repo
+Clone Repo \n
 ```npm install```
+
 ```npm start```
 Open http://localhost:3000/
 
